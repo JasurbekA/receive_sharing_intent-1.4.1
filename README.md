@@ -1,3 +1,6 @@
+link to offical plugin 
+https://github.com/KasemJaffer/receive_sharing_intent
+
 # receive_sharing_intent
 
 A flutter plugin that enables flutter apps to receive sharing photos, videos, text, urls or any other file types from another app.
